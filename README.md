@@ -14,7 +14,7 @@
 ```bash
 rm -rf OLD-ID
 
-https://github.com/RAKIB-ROKY-009/OLD-ID
+git clone https://github.com/RAKIB-ROKY-009/OLD-ID
 
 cd OLD-ID
 
